@@ -8,6 +8,9 @@
 
 ### Configurando o Phishing no Kali Linux
 
+Após cada comando pressionar Enter.
+
+**Comandos em ordem para criar o Pishing:**
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
@@ -19,4 +22,4 @@
 
 ### Resutados
 
-![Alt text](./ "Optional title")
+![Alt text](./pswd.png "Optional title")
