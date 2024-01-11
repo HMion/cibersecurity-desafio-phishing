@@ -1,7 +1,8 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Facebook (Desafio DIO)
 
 ### Ferramentas
 
+- VirtualBox
 - Kali Linux
 - setoolkit
 
@@ -18,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./ "Optional title")
