@@ -1,6 +1,6 @@
 # Phishing para captura de senhas do Facebook (Desafio DIO)
 
-### Ferramentas
+### 🛠 Ferramentas
 
   - VirtualBox
   - Kali Linux
@@ -8,7 +8,7 @@
 
 ### Configurando o Phishing no Kali Linux
 
-    Após cada comando pressionar Enter.
+   Após cada comando pressionar Enter.
 
   **Comandos em ordem para criar o Pishing:**
   - Acesso root: ``` sudo su ```
