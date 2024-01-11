@@ -8,7 +8,9 @@
 
 ### Configurando o Phishing no Kali Linux
 
-   Após cada comando pressionar Enter.
+  * Abra o Kali pelo VirtualBox;
+  * Inicie o terminal de comandos;
+  * Execute os passos a seguir pressionando _Enter_ após cada comando.
 
   **Comandos em ordem para criar o Pishing:**
   - Acesso root: ``` sudo su ```
@@ -20,6 +22,6 @@
   - Obtendo o endereço da máquina: ``` ifconfig ```
   - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resutado
 
 ![Alt text](./pswd.png "Optional title")
